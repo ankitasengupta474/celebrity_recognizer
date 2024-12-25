@@ -2,8 +2,7 @@ In this project the website can recognize any celebrity be it underground or fam
 
 1. Create a directory according to your choice
 
-2. Download the repository files and folders from the repository using git clone command to that particular directory or
-git clone https://github.com/ankitasengupta474/aichatbot.git AIDemo (where AIDemo is the main folder )
+2. Download the repository files and folders from the repository using git clone command to that particular directory.
 
 3. Install Python application from www.python.org
 
